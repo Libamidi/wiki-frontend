@@ -163,6 +163,14 @@ export function Topics() {
 					>
 						IA
 					</TopicPortal>
+					<TopicPortal
+						image="铃音环.jpg"
+						imageAlign="top"
+						imageClip={{ right: '40px', top: '8px' }}
+						withNavigation
+					>
+						铃音环
+					</TopicPortal>
 					<div className="grid gap-2">
 						<TopicSeeMore page=":Category:按音声合成软件分类的角色">查看更多</TopicSeeMore>
 						<TopicSeeMore page="Template:虚拟歌手衍生角色">衍生角色</TopicSeeMore>
