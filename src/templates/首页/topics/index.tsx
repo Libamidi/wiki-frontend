@@ -6,43 +6,43 @@ import * as Wiki from '~/components/wikitext'
 import { TopicPortal, TopicSeeMore } from './portal'
 
 /*
-*[[模板:虚拟歌手衍生角色|虚拟歌手衍生角色]]
+*[[Template:虚拟歌手衍生角色|虚拟歌手衍生角色]]
 |标题3=[[P主]]及相关人物
-|栏目3=*[[模板:P主|P主列表]]
+|栏目3=*[[Template:P主|P主列表]]
 *[[P名说出来]]
 *[[镜音P名说出来]]
 *[[TalkoidP名说出来]]
 *[[新人P名说出来!2011]]
 
-*[[:分类:P主模板|P主模板]]
-*[[模板:Hobo日P]]<!--“第四天坑”、“秋园女装计划”×-->
+*[[:Category:P主模板|P主模板]]
+*[[Template:Hobo日P]]<!--“第四天坑”、“秋园女装计划”×-->
 
-*[[:分类:画师|画师]]
+*[[:Category:画师|画师]]
 *[[虚拟歌手音源提供者列表|声音提供者]]
 
 |标题4=[[Special:RandomInCategory/使用VOCALOID的歌曲|歌曲]]
-|栏目4=*[[:分类:使用VOCALOID的歌曲|使用VOCALOID的歌曲]]
-*[[:分类:音乐专辑|音乐专辑]]
-*[[:分类:音声合成作品系列曲|音声合成作品系列曲]]
+|栏目4=*[[:Category:使用VOCALOID的歌曲|使用VOCALOID的歌曲]]
+*[[:Category:音乐专辑|音乐专辑]]
+*[[:Category:音声合成作品系列曲|音声合成作品系列曲]]
 
-*[[:分类:排行|排行]]
-*[[模板:虚拟歌手歌曲成就|虚拟歌手歌曲成就]]
+*[[:Category:排行|排行]]
+*[[Template:虚拟歌手歌曲成就|虚拟歌手歌曲成就]]
 
 |标题5=[[VOCARAN]]
 |栏目5=*[[周刊VOCAL Character & UTAU排行榜#all|周刊全列表]]
 
-*[[模板:月刊VOCALOID TOP30|月刊VOCALOID TOP30]]
+*[[Template:月刊VOCALOID TOP30|月刊VOCALOID TOP30]]
 
 *[[NICONICO VOCALOID SONGS TOP20]]
-*[[模板:NICONICO_VOCALOID_SONGS_TOP20|周榜全列表]]
+*[[Template:NICONICO_VOCALOID_SONGS_TOP20|周榜全列表]]
 
 *[[年刊VOCALOID·UTAU分区新曲排行榜]]
 
 *[[虚拟歌手外语排行榜]]
-*[[模板:虚拟歌手外语排行榜列表|全列表]]
+*[[Template:虚拟歌手外语排行榜列表|全列表]]
 
 *[[Biliboard术力口周榜]]
-*[[模板:Biliboard术力口周榜榜单|全列表]]
+*[[Template:Biliboard术力口周榜榜单|全列表]]
 }}
  */
 
